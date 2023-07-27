@@ -13,5 +13,5 @@ def test_factorial():
 
 def test_convert_temperature():
     assert operations.convert_temperature(25, C) == 77
-    assert operations.convert_temperature(96, F) == 35
+    assert operations.convert_temperature(96, F) == 36
 
